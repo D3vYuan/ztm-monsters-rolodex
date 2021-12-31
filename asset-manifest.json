@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ztm-monsters-rolodex/static/css/main.36352679.css",
+    "main.js": "/ztm-monsters-rolodex/static/js/main.c2fc207a.js",
+    "static/js/787.fbb2c275.chunk.js": "/ztm-monsters-rolodex/static/js/787.fbb2c275.chunk.js",
+    "index.html": "/ztm-monsters-rolodex/index.html",
+    "main.36352679.css.map": "/ztm-monsters-rolodex/static/css/main.36352679.css.map",
+    "main.c2fc207a.js.map": "/ztm-monsters-rolodex/static/js/main.c2fc207a.js.map",
+    "787.fbb2c275.chunk.js.map": "/ztm-monsters-rolodex/static/js/787.fbb2c275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36352679.css",
+    "static/js/main.c2fc207a.js"
+  ]
+}
